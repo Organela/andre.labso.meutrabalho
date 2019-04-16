@@ -1,0 +1,9 @@
+access.log
+andre1.txt
+andre2.txt
+andre3.txt
+pasta1/
+pasta2/
+pasta3/
+trabalho1.2019
+ultimocomando.txt
